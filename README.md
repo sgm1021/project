@@ -5,7 +5,7 @@
         - openCV 웹캠 영상처리를 통한 교차로 인식 자동주행
     - 기간 : 3주
     - 인원 : 5명
-    - 발표자료 : [AutomicCar](/AutomicCar/201110Final.pdf)
+    - 발표자료 : </AutomicCar/201110Final.pdf>
 
 ## pedestrian signal detection app
     - 내용 : 
