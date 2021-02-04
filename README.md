@@ -14,3 +14,4 @@
     - 기간 : 2주
     - 인원 : 3명
     - 발표자료 :
+발표자료 : [pedestrian_signal_detection](./pedestrian_signal_detection/YOLO_Pede.pdf) 
