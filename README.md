@@ -23,4 +23,4 @@
     - 사용언어 및 버전: PYTHON 3.8, JAVA
     - 사용툴: VScode, Labellmg, YOLO, colab, Android studio
     - 라이브러리: numpy, cv2, flask
-프로젝트 PDF 자료: [pedestrian_signal_detection](./pedestrian_signal_detection/YOLO_Pede.pdf) 
+프로젝트 PDF 자료: [pedestrian_signal_detection](./pedestrian_signal_detection/pedestrian_signal_detection.pdf) 
