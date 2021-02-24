@@ -1,4 +1,17 @@
 # project
+## pedestrian signal detection app
+    - 프로젝트명: pedestrian signal detection app
+    - 참여기간: 2주
+    - 참여인원: 3명
+    - 역할: 데이터 수집, 라즈베리파이 환경구축, 프로그래밍
+    - 프로젝트 세부내용: 
+        - YOLO를 활용한 보행자 신호 인식 모듈 만들기
+        - 모듈을 적용시킨 라즈베리파이 웹캠 영상을 Flask로 웹 스트리밍 및 휴대혼 어플 연동
+    - 사용언어 및 버전: PYTHON 3.8, JAVA
+    - 사용툴: VScode, Labellmg, YOLO, colab, Android studio
+    - 라이브러리: numpy, cv2, flask
+프로젝트 PDF 자료: [pedestrian_signal_detection](./pedestrian_signal_detection/pedestrian_signal_detection.pdf) 
+
 ## AutominCar
     - 프로젝트명: AutominCar
     - 참여기간: 3주
@@ -12,15 +25,4 @@
     - 라이브러리: GPIO, socket, cv2
 프로젝트 PDF 자료: [AucomicCar](./AutomicCar/201110Final.pdf)
 
-## pedestrian signal detection app
-    - 프로젝트명: pedestrian signal detection app
-    - 참여기간: 2주
-    - 참여인원: 3명
-    - 역할: 데이터 수집, 라즈베리파이 환경구축, 프로그래밍
-    - 프로젝트 세부내용: 
-        - YOLO를 활용한 보행자 신호 인식 모듈 만들기
-        - 모듈을 적용시킨 라즈베리파이 웹캠 영상을 Flask로 웹 스트리밍 및 휴대혼 어플 연동
-    - 사용언어 및 버전: PYTHON 3.8, JAVA
-    - 사용툴: VScode, Labellmg, YOLO, colab, Android studio
-    - 라이브러리: numpy, cv2, flask
-프로젝트 PDF 자료: [pedestrian_signal_detection](./pedestrian_signal_detection/pedestrian_signal_detection.pdf) 
+
