@@ -14,6 +14,7 @@
 학습: [training](https://www.kaggle.com/seokangwon/ranzcr-clip-efficientnet-auc-0-95-tpu/edit)    
 제출: [inference](https://www.kaggle.com/kmycoding/efficientnet-submission-b7?scriptVersionId=55087514)    
 
+---
 ## pedestrian signal detection app
     - 프로젝트명: pedestrian signal detection app
     - 참여기간: 2주
@@ -27,6 +28,7 @@
     - 라이브러리: numpy, cv2, flask
 프로젝트 PDF 자료: [pedestrian_signal_detection](./pedestrian_signal_detection/pedestrian_signal_detection.pdf) 
 
+---
 ## AutominCar
     - 프로젝트명: AutominCar
     - 참여기간: 3주
@@ -40,4 +42,4 @@
     - 라이브러리: GPIO, socket, cv2
 프로젝트 PDF 자료: [AucomicCar](./AutomicCar/201110Final.pdf)
 
-
+----
