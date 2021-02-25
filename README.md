@@ -1,17 +1,15 @@
 # project
 
 ## kaggle
-    - 프로젝트명: pedestrian signal detection app
-    - 참여기간: 2주
-    - 참여인원: 3명
-    - 역할: 데이터 수집, 라즈베리파이 환경구축, 프로그래밍
+    - 대회명: RANZCR CLiP - Catheter and Line Position Challenge
+    - 참여기간: 
+    - 참여인원: 5명
+    - 역할: 
     - 프로젝트 세부내용: 
-        - YOLO를 활용한 보행자 신호 인식 모듈 만들기
-        - 모듈을 적용시킨 라즈베리파이 웹캠 영상을 Flask로 웹 스트리밍 및 휴대혼 어플 연동
-    - 사용언어 및 버전: PYTHON 3.8, JAVA
-    - 사용툴: VScode, Labellmg, YOLO, colab, Android studio
-    - 라이브러리: numpy, cv2, flask
-### URL: 
+    - 사용언어 및 버전: 
+    - 사용툴:
+    - 라이브러리:
+####URL: 
 대회: [RANZCR CLiP - Catheter and Line Position Challenge](https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification)    
 학습: [training](https://www.kaggle.com/seokangwon/ranzcr-clip-efficientnet-auc-0-95-tpu/edit)    
 제출: [inference](https://www.kaggle.com/kmycoding/efficientnet-submission-b7?scriptVersionId=55087514)    
