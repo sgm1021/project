@@ -9,6 +9,7 @@
     - 사용언어 및 버전: 
     - 사용툴:
     - 라이브러리:
+프로젝트 PDF 자료: [RANZCR CLiP](./kaggle/RANZCR/0226_RANZCR.pdf)    
 #### URL: 
 대회: [RANZCR CLiP - Catheter and Line Position Challenge](https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification)    
 학습: [training](https://www.kaggle.com/seokangwon/ranzcr-clip-efficientnet-auc-0-95-tpu/edit)    
