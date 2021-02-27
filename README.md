@@ -7,11 +7,12 @@
     - 역할: PL, 논문 분석, 알고리즘 분석
     - 프로젝트 세부내용: Tube와 Cather의 배치 오류로 인해 발생 가능한 심각한 합병증을 예방하고, 판독 시간을 줄이기 위한 신경망 학습 모델 구축 및 분석
     - 사용언어 및 버전: 
-        - python 3.9.1
+        - python 3.9.1   
+    - 사용툴: 
+        - kaggle notebook
         - MongoDB server version 4.4.3
         - Pycharm 2020.3.3
-        - mongoDB Compass 1.25.0   
-    - 사용툴: kaggle notebook
+        - mongoDB Compass 1.25.0
     - 라이브러리:
         - Seaborn version 0.10.0
         - Pandas version 1.1.5
