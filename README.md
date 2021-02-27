@@ -2,16 +2,22 @@
 
 ## kaggle
     - 대회명: RANZCR CLiP - Catheter and Line Position Challenge
-    - 참여기간: 
+    - 참여기간: 21.02.10 ~ 21.02.24
     - 참여인원: 5명
-    - 역할: 
-    - 프로젝트 세부내용: 
-    - 사용언어 및 버전: 
-    - 사용툴:
+    - 역할: PL, 논문 분석, 알고리즘 분석
+    - 프로젝트 세부내용: Tube와 Cather의 배치 오류로 인해 발생 가능한 심각한 합병증을 예방하고, 판독 시간을 줄이기 위한 신경망 학습 모델 구축 및 분석
+    - 사용언어 및 버전: python 3.9.1, MongoDB server version 4.4.3. Pycharm 2020.3.3, mongoDB Compass 1.25.0   
+    - 사용툴: kaggle notebook
     - 라이브러리:
+        - Seaborn version 0.10.0
+        - Pandas version 1.1.5
+        - Cv2 version 4.41
+        - Tenserflow version 2.4.1
+        - Sklearn version 0.24.1
+        - Tenserflow.keras version 2.4.0   
 프로젝트 PDF 자료: [RANZCR CLiP](./kaggle/RANZCR/0226_RANZCR.pdf)    
 #### URL: 
-대회: [RANZCR CLiP - Catheter and Line Position Challenge](https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification)    
+대회: [RANZCR CLiP - Catheter and Line Position Challenge](https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification)     
 학습: [training](https://www.kaggle.com/seokangwon/ranzcr-clip-efficientnet-auc-0-95-tpu/edit)    
 제출: [inference](https://www.kaggle.com/kmycoding/efficientnet-submission-b7?scriptVersionId=55087514)    
 
