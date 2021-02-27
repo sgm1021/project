@@ -1,7 +1,7 @@
 # project
 
 ## kaggle
-    - 대회명: RANZCR CLiP - Catheter and Line Position Challenge
+### 대회명: RANZCR CLiP - Catheter and Line Position Challenge
     - 참여기간: 21.02.10 ~ 21.02.24
     - 참여인원: 5명
     - 역할: PL, 논문 분석, 알고리즘 분석
