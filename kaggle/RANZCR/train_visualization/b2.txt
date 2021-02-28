@@ -1,0 +1,81 @@
+Training...
+
+
+**************************************************************************************************** 
+FOLD: 1
+Downloading data from https://github.com/Callidior/keras-applications/releases/download/efficientnet/efficientnet-b2_weights_tf_dim_ordering_tf_kernels_autoaugment_notop.h5
+31940608/31936256 [==============================] - 0s 0us/step
+
+Model initialized and compiled: EfficientNet-B2
+
+Model training...
+
+Epoch 1/25
+176/176 - 265s - loss: 0.3504 - auc: 0.8774 - val_loss: 0.3246 - val_auc: 0.9181
+
+Epoch 00001: val_auc improved from -inf to 0.91810, saving model to /kaggle/working/models/model-f1.h5
+Epoch 2/25
+176/176 - 166s - loss: 0.2906 - auc: 0.9361 - val_loss: 0.2967 - val_auc: 0.9371
+
+Epoch 00002: val_auc improved from 0.91810 to 0.93711, saving model to /kaggle/working/models/model-f1.h5
+Epoch 3/25
+176/176 - 163s - loss: 0.2784 - auc: 0.9459 - val_loss: 0.2860 - val_auc: 0.9449
+
+Epoch 00003: val_auc improved from 0.93711 to 0.94495, saving model to /kaggle/working/models/model-f1.h5
+Epoch 4/25
+176/176 - 161s - loss: 0.2687 - auc: 0.9527 - val_loss: 0.2754 - val_auc: 0.9511
+
+Epoch 00004: val_auc improved from 0.94495 to 0.95113, saving model to /kaggle/working/models/model-f1.h5
+Epoch 5/25
+176/176 - 161s - loss: 0.2589 - auc: 0.9588 - val_loss: 0.2704 - val_auc: 0.9537
+
+Epoch 00005: val_auc improved from 0.95113 to 0.95370, saving model to /kaggle/working/models/model-f1.h5
+Epoch 6/25
+176/176 - 161s - loss: 0.2499 - auc: 0.9638 - val_loss: 0.2648 - val_auc: 0.9565
+
+Epoch 00006: val_auc improved from 0.95370 to 0.95653, saving model to /kaggle/working/models/model-f1.h5
+Epoch 7/25
+176/176 - 163s - loss: 0.2416 - auc: 0.9681 - val_loss: 0.2660 - val_auc: 0.9552
+
+Epoch 00007: val_auc did not improve from 0.95653
+Epoch 8/25
+176/176 - 168s - loss: 0.2341 - auc: 0.9717 - val_loss: 0.2690 - val_auc: 0.9533
+
+Epoch 00008: val_auc did not improve from 0.95653
+Epoch 9/25
+176/176 - 169s - loss: 0.2265 - auc: 0.9752 - val_loss: 0.2697 - val_auc: 0.9533
+
+Epoch 00009: val_auc did not improve from 0.95653
+Epoch 10/25
+176/176 - 168s - loss: 0.2181 - auc: 0.9790 - val_loss: 0.2682 - val_auc: 0.9544
+
+Epoch 00010: val_auc did not improve from 0.95653
+Epoch 11/25
+176/176 - 168s - loss: 0.2156 - auc: 0.9801 - val_loss: 0.2694 - val_auc: 0.9534
+
+Epoch 00011: val_auc did not improve from 0.95653
+Epoch 12/25
+176/176 - 169s - loss: 0.2149 - auc: 0.9803 - val_loss: 0.2695 - val_auc: 0.9533
+
+Epoch 00012: val_auc did not improve from 0.95653
+Epoch 13/25
+176/176 - 169s - loss: 0.2132 - auc: 0.9810 - val_loss: 0.2696 - val_auc: 0.9531
+
+Epoch 00013: val_auc did not improve from 0.95653
+Epoch 14/25
+176/176 - 168s - loss: 0.2135 - auc: 0.9809 - val_loss: 0.2695 - val_auc: 0.9532
+
+Epoch 00014: val_auc did not improve from 0.95653
+Epoch 15/25
+176/176 - 168s - loss: 0.2129 - auc: 0.9812 - val_loss: 0.2698 - val_auc: 0.9530
+
+Epoch 00015: val_auc did not improve from 0.95653
+Epoch 16/25
+176/176 - 169s - loss: 0.2126 - auc: 0.9812 - val_loss: 0.2696 - val_auc: 0.9531
+
+Epoch 00016: val_auc did not improve from 0.95653
+Epoch 00016: early stopping
+
+Model trained 
+
+FOLD-1 Validation AUC = 0.9565321803092957
