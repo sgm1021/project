@@ -26,7 +26,7 @@
 학습: [training](https://www.kaggle.com/seokangwon/ranzcr-clip-efficientnet-auc-0-95-tpu/edit)    
 제출: [inference](https://www.kaggle.com/kmycoding/efficientnet-submission-b7?scriptVersionId=55087514)    
 
----
+----
 ## pedestrian signal detection app
     - 프로젝트명: pedestrian signal detection app
     - 참여기간: 2주
