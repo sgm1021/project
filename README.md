@@ -1,4 +1,14 @@
 # project
+---
+## unity
+### 치과 환자 3D X-ray 시각화 프로그램
+    - 개발인원: 1명
+    - 프로젝트 세부내용: 환자 별 3D X-ray를 시각화하여 환자의 이해를 돕는 프로그램 개발
+    - 사용 언어 및 툴:
+        - unity 2020.3.0f1
+        - c#
+프로젝트 PDF 자료: [UNITY PROJECT](./unity/unity_project.pdf)
+
 ----
 ## kaggle
 ### 대회명: RANZCR CLiP - Catheter and Line Position Challenge
