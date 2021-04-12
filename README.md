@@ -51,8 +51,8 @@
 프로젝트 PDF 자료: [pedestrian_signal_detection](./pedestrian_signal_detection/pedestrian_signal_detection.pdf) 
 
 ----
-## AutominCar
-    - 프로젝트명: AutominCar
+## AutomicCar
+    - 프로젝트명: AutomicCar
     - 참여기간: 3주
     - 참여인원: 5명
     - 역할: RC카 조립 및 하드웨어 구성, 프로그래밍
